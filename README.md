@@ -1,2 +1,2 @@
 
-# Mall Customer Segmentation with knnn
+# Mall Customer Segmentation with knn
