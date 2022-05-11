@@ -1,2 +1,2 @@
 
-# Mall Customer Segmentation with knn
+# Mall Customer Segmentation with K-mean clustering
